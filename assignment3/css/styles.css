@@ -1,0 +1,24 @@
+.row article {
+    background-color: rgb(248, 249, 250);
+    margin-top: 2em;
+    padding: 1.5em;
+    text-align: justify;
+}
+.row article p.back-to-top {
+    text-align: right;
+}
+
+.row article a {
+    font-size: 0.85em;
+    text-decoration: none;
+    text-align: right;
+
+}
+
+nav {
+    margin-bottom: 1.5em;
+}
+
+section {
+    padding: 1.5em
+}
